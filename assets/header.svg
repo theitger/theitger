@@ -309,7 +309,7 @@
 <use href="#shadow" x="353" y="38" width="6" height="6"/>
 <use href="#shadow" x="353" y="45" width="6" height="6"/>
 </g>
-<text x="185" y="118" text-anchor="middle" font-family="monospace" font-size="14">
-  <tspan fill="#FFB6C1">I </tspan><tspan fill="#FF6B8A">♥</tspan><tspan fill="#FFB6C1"> my gf</tspan>
-</text>
+<foreignObject x="0" y="100" width="370" height="28">
+  <div xmlns="http://www.w3.org/1999/xhtml" style="text-align:center;font-family:monospace;font-size:14px;color:#FFB6C1;">I ❤️ my gf</div>
+</foreignObject>
 </svg>
