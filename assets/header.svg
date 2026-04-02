@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 104" width="370" height="104">
+<defs>
+<symbol id="star" viewBox="0 0 6 6">
+  <path d="M1.20,3.00L4.80,3.00M1.73,1.73L4.27,4.27M3.00,1.20L3.00,4.80M4.27,1.73L1.73,4.27" stroke="inherit" stroke-width="0.54" stroke-linecap="round" fill="none"/>
+  <g fill="inherit">
+    <circle cx="5.28" cy="3.00" r="0.33"/>
+    <circle cx="4.61" cy="1.39" r="0.33"/>
+    <circle cx="3.00" cy="0.72" r="0.33"/>
+    <circle cx="1.39" cy="1.39" r="0.33"/>
+    <circle cx="0.72" cy="3.00" r="0.33"/>
+    <circle cx="1.39" cy="4.61" r="0.33"/>
+    <circle cx="3.00" cy="5.28" r="0.33"/>
+    <circle cx="4.61" cy="4.61" r="0.33"/>
+    <circle cx="3" cy="3" r="0.43"/></g></symbol>
+<symbol id="shadow" viewBox="0 0 6 6">
+  <line x1="4.68" y1="1.32" x2="1.32" y2="4.68" stroke="inherit" stroke-width="0.54" stroke-linecap="round"/>
+</symbol></defs>
+<style>
+.cell { stroke: #1a3355; fill: #1a3355; }
+@media (prefers-color-scheme: dark) { .cell { stroke: #5b8cb8; fill: #5b8cb8; } }
+</style>
+<g class="cell" visibility="visible">
+<animate attributeName="visibility" values="visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible" keyTimes="0.0000;0.0156;0.0312;0.0469;0.0625;0.0781;0.0938;0.1094;0.1250;0.1406;0.1562;0.1719;0.1875;0.2031;0.2188;0.2344;0.2500;0.2656;0.2812;0.2969;0.3125;0.3281;0.3438;0.3594;0.3750;0.3906;0.4062;0.4219;0.4375;0.4531;0.4688;0.4844;0.5000;0.5156;0.5312;0.5469;0.5625;0.5781;0.5938;0.6094;0.6250;0.6406;0.6562;0.6719;0.6875;0.7031;0.7188;0.7344;0.7500;0.7656;0.7812;0.7969;0.8125;0.8281;0.8438;0.8594;0.8750;0.8906;0.9062;0.9219;0.9375;0.9531;0.9688;0.9844;1.0000" dur="8s" repeatCount="indefinite" calcMode="discrete"/>
+<use href="#star" x="17" y="31" width="6" height="6"/>
+<use href="#star" x="17" y="38" width="6" height="6"/>
+<use href="#star" x="24" y="31" width="6" height="6"/>
+<use href="#star" x="24" y="38" width="6" height="6"/>
+<use href="#star" x="31" y="17" width="6" height="6"/>
+<use href="#star" x="31" y="24" width="6" height="6"/>
+<use href="#star" x="31" y="31" width="6" height="6"/>
+<use href="#star" x="31" y="38" width="6" height="6"/>
+<use href="#star" x="31" y="45" width="6" height="6"/>
+<use href="#star" x="31" y="52" width="6" height="6"/>
+<use href="#star" x="31" y="59" width="6" height="6"/>
+<use href="#star" x="31" y="66" width="6" height="6"/>
+<use href="#star" x="38" y="17" width="6" height="6"/>
+<use href="#star" x="38" y="24" width="6" height="6"/>
+<use href="#star" x="38" y="31" width="6" height="6"/>
+<use href="#star" x="38" y="38" width="6" height="6"/>
+<use href="#star" x="38" y="45" width="6" height="6"/>
+<use href="#star" x="38" y="52" width="6" height="6"/>
+<use href="#star" x="38" y="59" width="6" height="6"/>
+<use href="#star" x="38" y="66" width="6" height="6"/>
+<use href="#star" x="38" y="73" width="6" height="6"/>
+<use href="#star" x="38" y="80" width="6" height="6"/>
+<use href="#star" x="45" y="31" width="6" height="6"/>
+<use href="#star" x="45" y="38" width="6" height="6"/>
+<use href="#star" x="45" y="73" width="6" height="6"/>
+<use href="#star" x="45" y="80" width="6" height="6"/>
+<use href="#star" x="52" y="31" width="6" height="6"/>
+<use href="#star" x="52" y="38" width="6" height="6"/>
+<use href="#shadow" x="17" y="45" width="6" height="6"/>
+<use href="#shadow" x="24" y="45" width="6" height="6"/>
+<use href="#shadow" x="31" y="73" width="6" height="6"/>
+<use href="#shadow" x="38" y="87" width="6" height="6"/>
+<use href="#shadow" x="45" y="17" width="6" height="6"/>
+<use href="#shadow" x="45" y="24" width="6" height="6"/>
+<use href="#shadow" x="45" y="45" width="6" height="6"/>
+<use href="#shadow" x="45" y="52" width="6" height="6"/>
+<use href="#shadow" x="45" y="59" width="6" height="6"/>
+<use href="#shadow" x="45" y="66" width="6" height="6"/>
+<use href="#shadow" x="45" y="87" width="6" height="6"/>
+<use href="#shadow" x="52" y="45" width="6" height="6"/>
+<use href="#shadow" x="52" y="73" width="6" height="6"/>
+<use href="#shadow" x="52" y="80" width="6" height="6"/>
+<use href="#shadow" x="52" y="87" width="6" height="6"/>
+<use href="#shadow" x="59" y="31" width="6" height="6"/>
+<use href="#shadow" x="59" y="38" width="6" height="6"/>
+<use href="#shadow" x="59" y="45" width="6" height="6"/>
+</g>
+<g class="cell" visibility="visible">
+<animate attributeName="visibility" values="visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;hidden;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible" keyTimes="0.0000;0.0156;0.0312;0.0469;0.0625;0.0781;0.0938;0.1094;0.1250;0.1406;0.1562;0.1719;0.1875;0.2031;0.2188;0.2344;0.2500;0.2656;0.2812;0.2969;0.3125;0.3281;0.3438;0.3594;0.3750;0.3906;0.4062;0.4219;0.4375;0.4531;0.4688;0.4844;0.5000;0.5156;0.5312;0.5469;0.5625;0.5781;0.5938;0.6094;0.6250;0.6406;0.6562;0.6719;0.6875;0.7031;0.7188;0.7344;0.7500;0.7656;0.7812;0.7969;0.8125;0.8281;0.8438;0.8594;0.8750;0.8906;0.9062;0.9219;0.9375;0.9531;0.9688;0.9844;1.0000" dur="8s" repeatCount="indefinite" calcMode="discrete"/>
+<use href="#star" x="80" y="31" width="6" height="6"/>
+<use href="#star" x="80" y="38" width="6" height="6"/>
+<use href="#star" x="80" y="45" width="6" height="6"/>
+<use href="#star" x="80" y="52" width="6" height="6"/>
+<use href="#star" x="80" y="59" width="6" height="6"/>
+<use href="#star" x="80" y="66" width="6" height="6"/>
+<use href="#star" x="80" y="73" width="6" height="6"/>
+<use href="#star" x="80" y="80" width="6" height="6"/>
+<use href="#star" x="87" y="31" width="6" height="6"/>
+<use href="#star" x="87" y="38" width="6" height="6"/>
+<use href="#star" x="87" y="45" width="6" height="6"/>
+<use href="#star" x="87" y="52" width="6" height="6"/>
+<use href="#star" x="87" y="59" width="6" height="6"/>
+<use href="#star" x="87" y="66" width="6" height="6"/>
+<use href="#star" x="87" y="73" width="6" height="6"/>
+<use href="#star" x="87" y="80" width="6" height="6"/>
+<use href="#star" x="94" y="38" width="6" height="6"/>
+<use href="#star" x="94" y="45" width="6" height="6"/>
+<use href="#star" x="101" y="31" width="6" height="6"/>
+<use href="#star" x="101" y="38" width="6" height="6"/>
+<use href="#star" x="108" y="31" width="6" height="6"/>
+<use href="#star" x="108" y="38" width="6" height="6"/>
+<use href="#star" x="115" y="38" width="6" height="6"/>
+<use href="#star" x="115" y="45" width="6" height="6"/>
+<use href="#shadow" x="80" y="87" width="6" height="6"/>
+<use href="#shadow" x="87" y="87" width="6" height="6"/>
+<use href="#shadow" x="94" y="31" width="6" height="6"/>
+<use href="#shadow" x="94" y="52" width="6" height="6"/>
+<use href="#shadow" x="94" y="59" width="6" height="6"/>
+<use href="#shadow" x="94" y="66" width="6" height="6"/>
+<use href="#shadow" x="94" y="73" width="6" height="6"/>
+<use href="#shadow" x="94" y="80" width="6" height="6"/>
+<use href="#shadow" x="94" y="87" width="6" height="6"/>
+<use href="#shadow" x="101" y="45" width="6" height="6"/>
+<use href="#shadow" x="101" y="52" width="6" height="6"/>
+<use href="#shadow" x="108" y="45" width="6" height="6"/>
+<use href="#shadow" x="115" y="31" width="6" height="6"/>
+<use href="#shadow" x="115" y="52" width="6" height="6"/>
+<use href="#shadow" x="122" y="38" width="6" height="6"/>
+<use href="#shadow" x="122" y="45" width="6" height="6"/>
+<use href="#shadow" x="122" y="52" width="6" height="6"/>
+</g>
+<g class="cell" visibility="visible">
+<animate attributeName="visibility" values="visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;hidden;hidden;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible" keyTimes="0.0000;0.0156;0.0312;0.0469;0.0625;0.0781;0.0938;0.1094;0.1250;0.1406;0.1562;0.1719;0.1875;0.2031;0.2188;0.2344;0.2500;0.2656;0.2812;0.2969;0.3125;0.3281;0.3438;0.3594;0.3750;0.3906;0.4062;0.4219;0.4375;0.4531;0.4688;0.4844;0.5000;0.5156;0.5312;0.5469;0.5625;0.5781;0.5938;0.6094;0.6250;0.6406;0.6562;0.6719;0.6875;0.7031;0.7188;0.7344;0.7500;0.7656;0.7812;0.7969;0.8125;0.8281;0.8438;0.8594;0.8750;0.8906;0.9062;0.9219;0.9375;0.9531;0.9688;0.9844;1.0000" dur="8s" repeatCount="indefinite" calcMode="discrete"/>
+<use href="#star" x="136" y="17" width="6" height="6"/>
+<use href="#star" x="136" y="24" width="6" height="6"/>
+<use href="#star" x="136" y="38" width="6" height="6"/>
+<use href="#star" x="136" y="45" width="6" height="6"/>
+<use href="#star" x="136" y="52" width="6" height="6"/>
+<use href="#star" x="136" y="59" width="6" height="6"/>
+<use href="#star" x="136" y="66" width="6" height="6"/>
+<use href="#star" x="136" y="73" width="6" height="6"/>
+<use href="#star" x="136" y="80" width="6" height="6"/>
+<use href="#star" x="143" y="17" width="6" height="6"/>
+<use href="#star" x="143" y="24" width="6" height="6"/>
+<use href="#star" x="143" y="38" width="6" height="6"/>
+<use href="#star" x="143" y="45" width="6" height="6"/>
+<use href="#star" x="143" y="52" width="6" height="6"/>
+<use href="#star" x="143" y="59" width="6" height="6"/>
+<use href="#star" x="143" y="66" width="6" height="6"/>
+<use href="#star" x="143" y="73" width="6" height="6"/>
+<use href="#star" x="143" y="80" width="6" height="6"/>
+<use href="#shadow" x="136" y="31" width="6" height="6"/>
+<use href="#shadow" x="136" y="87" width="6" height="6"/>
+<use href="#shadow" x="143" y="31" width="6" height="6"/>
+<use href="#shadow" x="143" y="87" width="6" height="6"/>
+<use href="#shadow" x="150" y="17" width="6" height="6"/>
+<use href="#shadow" x="150" y="24" width="6" height="6"/>
+<use href="#shadow" x="150" y="31" width="6" height="6"/>
+<use href="#shadow" x="150" y="38" width="6" height="6"/>
+<use href="#shadow" x="150" y="45" width="6" height="6"/>
+<use href="#shadow" x="150" y="52" width="6" height="6"/>
+<use href="#shadow" x="150" y="59" width="6" height="6"/>
+<use href="#shadow" x="150" y="66" width="6" height="6"/>
+<use href="#shadow" x="150" y="73" width="6" height="6"/>
+<use href="#shadow" x="150" y="80" width="6" height="6"/>
+<use href="#shadow" x="150" y="87" width="6" height="6"/>
+</g>
+<g class="cell" visibility="visible">
+<animate attributeName="visibility" values="visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible" keyTimes="0.0000;0.0156;0.0312;0.0469;0.0625;0.0781;0.0938;0.1094;0.1250;0.1406;0.1562;0.1719;0.1875;0.2031;0.2188;0.2344;0.2500;0.2656;0.2812;0.2969;0.3125;0.3281;0.3438;0.3594;0.3750;0.3906;0.4062;0.4219;0.4375;0.4531;0.4688;0.4844;0.5000;0.5156;0.5312;0.5469;0.5625;0.5781;0.5938;0.6094;0.6250;0.6406;0.6562;0.6719;0.6875;0.7031;0.7188;0.7344;0.7500;0.7656;0.7812;0.7969;0.8125;0.8281;0.8438;0.8594;0.8750;0.8906;0.9062;0.9219;0.9375;0.9531;0.9688;0.9844;1.0000" dur="8s" repeatCount="indefinite" calcMode="discrete"/>
+<use href="#star" x="178" y="31" width="6" height="6"/>
+<use href="#star" x="178" y="38" width="6" height="6"/>
+<use href="#star" x="178" y="73" width="6" height="6"/>
+<use href="#star" x="178" y="80" width="6" height="6"/>
+<use href="#star" x="185" y="31" width="6" height="6"/>
+<use href="#star" x="185" y="38" width="6" height="6"/>
+<use href="#star" x="185" y="66" width="6" height="6"/>
+<use href="#star" x="185" y="73" width="6" height="6"/>
+<use href="#star" x="185" y="80" width="6" height="6"/>
+<use href="#star" x="192" y="31" width="6" height="6"/>
+<use href="#star" x="192" y="38" width="6" height="6"/>
+<use href="#star" x="192" y="59" width="6" height="6"/>
+<use href="#star" x="192" y="66" width="6" height="6"/>
+<use href="#star" x="192" y="73" width="6" height="6"/>
+<use href="#star" x="192" y="80" width="6" height="6"/>
+<use href="#star" x="199" y="31" width="6" height="6"/>
+<use href="#star" x="199" y="38" width="6" height="6"/>
+<use href="#star" x="199" y="52" width="6" height="6"/>
+<use href="#star" x="199" y="59" width="6" height="6"/>
+<use href="#star" x="199" y="73" width="6" height="6"/>
+<use href="#star" x="199" y="80" width="6" height="6"/>
+<use href="#star" x="206" y="31" width="6" height="6"/>
+<use href="#star" x="206" y="38" width="6" height="6"/>
+<use href="#star" x="206" y="45" width="6" height="6"/>
+<use href="#star" x="206" y="52" width="6" height="6"/>
+<use href="#star" x="206" y="73" width="6" height="6"/>
+<use href="#star" x="206" y="80" width="6" height="6"/>
+<use href="#star" x="213" y="31" width="6" height="6"/>
+<use href="#star" x="213" y="38" width="6" height="6"/>
+<use href="#star" x="213" y="45" width="6" height="6"/>
+<use href="#star" x="213" y="73" width="6" height="6"/>
+<use href="#star" x="213" y="80" width="6" height="6"/>
+<use href="#shadow" x="178" y="45" width="6" height="6"/>
+<use href="#shadow" x="178" y="87" width="6" height="6"/>
+<use href="#shadow" x="185" y="45" width="6" height="6"/>
+<use href="#shadow" x="185" y="87" width="6" height="6"/>
+<use href="#shadow" x="192" y="45" width="6" height="6"/>
+<use href="#shadow" x="192" y="87" width="6" height="6"/>
+<use href="#shadow" x="199" y="45" width="6" height="6"/>
+<use href="#shadow" x="199" y="66" width="6" height="6"/>
+<use href="#shadow" x="199" y="87" width="6" height="6"/>
+<use href="#shadow" x="206" y="59" width="6" height="6"/>
+<use href="#shadow" x="206" y="66" width="6" height="6"/>
+<use href="#shadow" x="206" y="87" width="6" height="6"/>
+<use href="#shadow" x="213" y="52" width="6" height="6"/>
+<use href="#shadow" x="213" y="59" width="6" height="6"/>
+<use href="#shadow" x="213" y="87" width="6" height="6"/>
+<use href="#shadow" x="220" y="31" width="6" height="6"/>
+<use href="#shadow" x="220" y="38" width="6" height="6"/>
+<use href="#shadow" x="220" y="45" width="6" height="6"/>
+<use href="#shadow" x="220" y="52" width="6" height="6"/>
+<use href="#shadow" x="220" y="73" width="6" height="6"/>
+<use href="#shadow" x="220" y="80" width="6" height="6"/>
+<use href="#shadow" x="220" y="87" width="6" height="6"/>
+</g>
+<g class="cell" visibility="visible">
+<animate attributeName="visibility" values="visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;visible" keyTimes="0.0000;0.0156;0.0312;0.0469;0.0625;0.0781;0.0938;0.1094;0.1250;0.1406;0.1562;0.1719;0.1875;0.2031;0.2188;0.2344;0.2500;0.2656;0.2812;0.2969;0.3125;0.3281;0.3438;0.3594;0.3750;0.3906;0.4062;0.4219;0.4375;0.4531;0.4688;0.4844;0.5000;0.5156;0.5312;0.5469;0.5625;0.5781;0.5938;0.6094;0.6250;0.6406;0.6562;0.6719;0.6875;0.7031;0.7188;0.7344;0.7500;0.7656;0.7812;0.7969;0.8125;0.8281;0.8438;0.8594;0.8750;0.8906;0.9062;0.9219;0.9375;0.9531;0.9688;0.9844;1.0000" dur="8s" repeatCount="indefinite" calcMode="discrete"/>
+<use href="#star" x="241" y="31" width="6" height="6"/>
+<use href="#star" x="241" y="38" width="6" height="6"/>
+<use href="#star" x="241" y="73" width="6" height="6"/>
+<use href="#star" x="241" y="80" width="6" height="6"/>
+<use href="#star" x="248" y="31" width="6" height="6"/>
+<use href="#star" x="248" y="38" width="6" height="6"/>
+<use href="#star" x="248" y="66" width="6" height="6"/>
+<use href="#star" x="248" y="73" width="6" height="6"/>
+<use href="#star" x="248" y="80" width="6" height="6"/>
+<use href="#star" x="255" y="31" width="6" height="6"/>
+<use href="#star" x="255" y="38" width="6" height="6"/>
+<use href="#star" x="255" y="59" width="6" height="6"/>
+<use href="#star" x="255" y="66" width="6" height="6"/>
+<use href="#star" x="255" y="73" width="6" height="6"/>
+<use href="#star" x="255" y="80" width="6" height="6"/>
+<use href="#star" x="262" y="31" width="6" height="6"/>
+<use href="#star" x="262" y="38" width="6" height="6"/>
+<use href="#star" x="262" y="52" width="6" height="6"/>
+<use href="#star" x="262" y="59" width="6" height="6"/>
+<use href="#star" x="262" y="73" width="6" height="6"/>
+<use href="#star" x="262" y="80" width="6" height="6"/>
+<use href="#star" x="269" y="31" width="6" height="6"/>
+<use href="#star" x="269" y="38" width="6" height="6"/>
+<use href="#star" x="269" y="45" width="6" height="6"/>
+<use href="#star" x="269" y="52" width="6" height="6"/>
+<use href="#star" x="269" y="73" width="6" height="6"/>
+<use href="#star" x="269" y="80" width="6" height="6"/>
+<use href="#star" x="276" y="31" width="6" height="6"/>
+<use href="#star" x="276" y="38" width="6" height="6"/>
+<use href="#star" x="276" y="45" width="6" height="6"/>
+<use href="#star" x="276" y="73" width="6" height="6"/>
+<use href="#star" x="276" y="80" width="6" height="6"/>
+<use href="#shadow" x="241" y="45" width="6" height="6"/>
+<use href="#shadow" x="241" y="87" width="6" height="6"/>
+<use href="#shadow" x="248" y="45" width="6" height="6"/>
+<use href="#shadow" x="248" y="87" width="6" height="6"/>
+<use href="#shadow" x="255" y="45" width="6" height="6"/>
+<use href="#shadow" x="255" y="87" width="6" height="6"/>
+<use href="#shadow" x="262" y="45" width="6" height="6"/>
+<use href="#shadow" x="262" y="66" width="6" height="6"/>
+<use href="#shadow" x="262" y="87" width="6" height="6"/>
+<use href="#shadow" x="269" y="59" width="6" height="6"/>
+<use href="#shadow" x="269" y="66" width="6" height="6"/>
+<use href="#shadow" x="269" y="87" width="6" height="6"/>
+<use href="#shadow" x="276" y="52" width="6" height="6"/>
+<use href="#shadow" x="276" y="59" width="6" height="6"/>
+<use href="#shadow" x="276" y="87" width="6" height="6"/>
+<use href="#shadow" x="283" y="31" width="6" height="6"/>
+<use href="#shadow" x="283" y="38" width="6" height="6"/>
+<use href="#shadow" x="283" y="45" width="6" height="6"/>
+<use href="#shadow" x="283" y="52" width="6" height="6"/>
+<use href="#shadow" x="283" y="73" width="6" height="6"/>
+<use href="#shadow" x="283" y="80" width="6" height="6"/>
+<use href="#shadow" x="283" y="87" width="6" height="6"/>
+</g>
+<g class="cell" visibility="visible">
+<animate attributeName="visibility" values="visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;hidden;visible;hidden;visible;visible;visible;hidden;hidden;visible;visible;visible;visible;visible;hidden;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible;visible;visible;visible;hidden;visible;visible;visible;hidden;visible;visible;visible;visible;hidden;visible;visible;visible;visible;visible" keyTimes="0.0000;0.0156;0.0312;0.0469;0.0625;0.0781;0.0938;0.1094;0.1250;0.1406;0.1562;0.1719;0.1875;0.2031;0.2188;0.2344;0.2500;0.2656;0.2812;0.2969;0.3125;0.3281;0.3438;0.3594;0.3750;0.3906;0.4062;0.4219;0.4375;0.4531;0.4688;0.4844;0.5000;0.5156;0.5312;0.5469;0.5625;0.5781;0.5938;0.6094;0.6250;0.6406;0.6562;0.6719;0.6875;0.7031;0.7188;0.7344;0.7500;0.7656;0.7812;0.7969;0.8125;0.8281;0.8438;0.8594;0.8750;0.8906;0.9062;0.9219;0.9375;0.9531;0.9688;0.9844;1.0000" dur="8s" repeatCount="indefinite" calcMode="discrete"/>
+<use href="#star" x="304" y="31" width="6" height="6"/>
+<use href="#star" x="304" y="38" width="6" height="6"/>
+<use href="#star" x="304" y="80" width="6" height="6"/>
+<use href="#star" x="311" y="31" width="6" height="6"/>
+<use href="#star" x="311" y="38" width="6" height="6"/>
+<use href="#star" x="311" y="45" width="6" height="6"/>
+<use href="#star" x="311" y="73" width="6" height="6"/>
+<use href="#star" x="311" y="80" width="6" height="6"/>
+<use href="#star" x="318" y="45" width="6" height="6"/>
+<use href="#star" x="318" y="52" width="6" height="6"/>
+<use href="#star" x="318" y="59" width="6" height="6"/>
+<use href="#star" x="318" y="66" width="6" height="6"/>
+<use href="#star" x="318" y="73" width="6" height="6"/>
+<use href="#star" x="325" y="52" width="6" height="6"/>
+<use href="#star" x="325" y="59" width="6" height="6"/>
+<use href="#star" x="325" y="66" width="6" height="6"/>
+<use href="#star" x="332" y="45" width="6" height="6"/>
+<use href="#star" x="332" y="52" width="6" height="6"/>
+<use href="#star" x="339" y="31" width="6" height="6"/>
+<use href="#star" x="339" y="38" width="6" height="6"/>
+<use href="#star" x="339" y="45" width="6" height="6"/>
+<use href="#star" x="346" y="31" width="6" height="6"/>
+<use href="#star" x="346" y="38" width="6" height="6"/>
+<use href="#shadow" x="304" y="45" width="6" height="6"/>
+<use href="#shadow" x="304" y="87" width="6" height="6"/>
+<use href="#shadow" x="311" y="52" width="6" height="6"/>
+<use href="#shadow" x="311" y="87" width="6" height="6"/>
+<use href="#shadow" x="318" y="31" width="6" height="6"/>
+<use href="#shadow" x="318" y="38" width="6" height="6"/>
+<use href="#shadow" x="318" y="80" width="6" height="6"/>
+<use href="#shadow" x="318" y="87" width="6" height="6"/>
+<use href="#shadow" x="325" y="45" width="6" height="6"/>
+<use href="#shadow" x="325" y="73" width="6" height="6"/>
+<use href="#shadow" x="325" y="80" width="6" height="6"/>
+<use href="#shadow" x="332" y="59" width="6" height="6"/>
+<use href="#shadow" x="332" y="66" width="6" height="6"/>
+<use href="#shadow" x="332" y="73" width="6" height="6"/>
+<use href="#shadow" x="339" y="52" width="6" height="6"/>
+<use href="#shadow" x="339" y="59" width="6" height="6"/>
+<use href="#shadow" x="346" y="45" width="6" height="6"/>
+<use href="#shadow" x="346" y="52" width="6" height="6"/>
+<use href="#shadow" x="353" y="31" width="6" height="6"/>
+<use href="#shadow" x="353" y="38" width="6" height="6"/>
+<use href="#shadow" x="353" y="45" width="6" height="6"/>
+</g>
+</svg>
